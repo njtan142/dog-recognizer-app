@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_home"
+        android:orderInCategory="100"
+        android:title="Home" />
+    <item
+        android:id="@+id/notifFragment"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_notif"
+        android:orderInCategory="101"
+        android:title="Notif" />
+    <item
+        android:id="@+id/reportFragment"
+        app:showAsAction="always"
+        android:icon="@drawable/dog"
+        android:orderInCategory="102"
+        android:title="Report" />
+    <item
+        android:id="@+id/registerFragment"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_register"
+        android:orderInCategory="103"
+        android:title="Register" />
+
+    <item
+        android:id="@+id/settingsFragment"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_settings"
+        android:orderInCategory="104"
+        android:title="Settings" />
+</menu>

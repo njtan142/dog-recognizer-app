@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053905044310",
+    "project_id": "doglostfound-9efe2",
+    "storage_bucket": "doglostfound-9efe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053905044310:android:f19fdce882629f18a30cf7",
+        "android_client_info": {
+          "package_name": "com.lostpawsconnect.dogmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtD3RppwxEHZuE3JRyU66DzOdmDneucI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
